@@ -162,6 +162,9 @@ aside > ul{
     columns: 2;
     list-style-type: '\2714\00A0\00A0';
 }
+abbr{
+    text-decoration: underline;
+}
 footer{
     background-color: var(--cor5);
     color: white;
